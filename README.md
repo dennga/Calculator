@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Dieses Projekt ist ein einfacher Taschenrechner mit einer grafischen Benutzeroberfläche (GUI), der mit Python und Tkinter erstellt wurde. Er ermöglicht grundlegende Rechenoperationen wie Addition, Subtraktion, Multiplikation und Division.
+Dieses Projekt ist ein einfacher Taschenrechner mit einer grafischen Benutzeroberfläche (GUI), der mit Python erstellt wurde. Er ermöglicht grundlegende Rechenoperationen wie Addition, Subtraktion, Multiplikation und Division.
 
 ## Funktionen
 
